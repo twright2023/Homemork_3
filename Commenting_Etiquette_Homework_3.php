@@ -109,13 +109,8 @@
             <a class="btn btn-primary" href="https://csnlinux.genesee.edu/~twrigh21/Week_3/Homemork_3.php" role="button">CSNLinux</a>
         </div>
         <div class="topnav">
-            Link to Homework 3 in Github:
-            <a class="btn btn-primary" href="https://csnlinux.genesee.edu/~twrigh21/Week_3/Homemork_3.php" role="button">GithubHW3</a>
+            Link to Homework 3 and Commenting Etiqutte in Github:
+            <a class="btn btn-primary" href="https://github.com/twright2023/Homemork_3.git" role="button">Github</a>
         </div>
-        <div class="topnav">
-            Link to this in Github:
-            <a class="btn btn-primary" href="https://csnlinux.genesee.edu/~twrigh21/Week_3/Homemork_3.php" role="button">GithubCEHW3</a>
-        </div>
-
     </body>
 </html>
