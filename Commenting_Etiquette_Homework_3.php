@@ -110,7 +110,7 @@
         </div>
         <div class="topnav">
             Link to Homework 3 and Commenting Etiqutte in Github:
-            <a class="btn btn-primary" href="https://github.com/twright2023/Homemork_3.git" role="button">Github</a>
+            <a class="btn btn-primary" href="https://github.com/twright2023/Homemork_3.git" role="button">GitHub</a>
         </div>
     </body>
 </html>
